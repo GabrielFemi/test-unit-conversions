@@ -1,0 +1,15 @@
+{
+    "name": "gabriela/test-unit-conversions",
+    "description": "Test the unit conversions",
+    "type": "project",
+    "require": {
+        "gabrielfemi/unit-conversions": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Femi",
+            "email": "gabrielfemi799@gmail.com"
+        }
+    ]
+}
